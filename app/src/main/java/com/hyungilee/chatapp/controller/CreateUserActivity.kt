@@ -1,4 +1,4 @@
-package com.hyungilee.chatapp.activities
+package com.hyungilee.chatapp.controller
 
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity

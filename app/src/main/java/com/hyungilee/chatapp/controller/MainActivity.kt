@@ -1,4 +1,4 @@
-package com.hyungilee.chatapp.activities
+package com.hyungilee.chatapp.controller
 
 import android.content.Intent
 import android.os.Bundle
